@@ -1,5 +1,5 @@
 # yt_stabiity_01
-81 downloads 3 failures - large 1.8 GB downloads confirmed, stable for a week, ever since adding cookies -do modify because of random errors, its good.
+81 downloads 3 failures - large 1.8 GB downloads confirmed, stable for a week, ever since adding cookies - DO NOT modify because of random errors, its good.just try again :-)
 
 ## Android
 download kiwi browser and install cookies.txt extention (easy),just search for cookies.txt, 
